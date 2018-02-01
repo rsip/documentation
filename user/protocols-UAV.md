@@ -46,4 +46,5 @@ QGIS software was used to confirm geospatial alignment of NDVI geotiffs with sha
 * MicaSense: https://www.micasense.com
 * SenseFly https://www.sensefly.com
 * QGIS https://www.qgis.org
+* https://www.Pix4D.com 
 
