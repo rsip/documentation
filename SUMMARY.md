@@ -31,6 +31,7 @@
     * [Meteorological data](products/meteorological_data.md)
     * [Phenotype data](products/trait-data.md)
     * [Point Cloud Data](products/point-cloud-data.md)
+    * [Maricopa UAV data](products/maricopa-aerial-imagery.md]
   * [How to Access Data](user/how-to-access-data.md)
     * [Using Clowder (Sensor and Genomics data)](user/using-clowder.md)
     * [Using Globus (Sensor and Genomics data)](user/using-globus.md)
